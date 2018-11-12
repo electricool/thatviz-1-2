@@ -1,4 +1,4 @@
-# Start WordPress
+# ThatViz 1.2
 
 ### A Theme for Learning WordPress
 
